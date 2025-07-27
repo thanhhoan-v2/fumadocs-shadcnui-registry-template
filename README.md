@@ -15,6 +15,23 @@
 
 This is a comprehensive template for creating your own component registry for `shadcn/ui`, seamlessly integrated with [Fumadocs](https://fumadocs.dev/) for documentation. Build, document, and distribute your own reusable components to any React project that uses `shadcn/ui`.
 
+## 📚 Table of Contents
+
+- [🚀 Features](#-features)
+- [📋 Tech Stack](#-tech-stack)
+- [📁 Project Structure](#-project-structure)
+- [🛠 Available Scripts](#-available-scripts)
+- [🚀 Getting Started](#-getting-started)
+- [📝 Creating New Components](#-creating-new-components)
+- [📚 Creating Component Documentation](#-creating-component-documentation)
+- [🌐 Deploying Your Registry](#-deploying-your-registry)
+- [📦 Using Your Registry](#-using-your-registry)
+- [🔧 Configuration](#-configuration)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [🙏 Acknowledgments](#-acknowledgments)
+- [📞 Support](#-support)
+
 ## 🚀 Features
 
 - **Custom Component Registry**: Host your own `shadcn/ui` compatible components
