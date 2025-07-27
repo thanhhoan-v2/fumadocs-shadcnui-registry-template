@@ -1,3 +1,16 @@
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h1>Fumadocs</h1>
+      <img src="public/fumadocs-logo.png" alt="Fumadocs Logo" width="100" />
+    </td>
+    <td align="right">
+      <h1>Shadcn/UI</h1>
+      <img src="public/shadcnui-logo.png" alt="Shadcn/ui Logo" width="100" />
+    </td>
+  </tr>
+</table>
+
 # Fumadocs Shadcn/UI Registry Template
 
 This is a template for creating your own component registry for `shadcn/ui`,
